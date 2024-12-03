@@ -1,5 +1,4 @@
-# charter-21BCE10714
-# CharterLabs Stage 1: Modular Signature Scheme Verification Algorithm
+# Modular Signature Scheme Verification Algorithm
 
 ## Overview
 
